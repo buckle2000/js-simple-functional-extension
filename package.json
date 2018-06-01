@@ -23,13 +23,11 @@
     "cjs": true
   },
   "dependencies": {
-    "d3-require": "^1.0.3",
     "esm": "^3.0.5"
   },
   "devDependencies": {
     "eslint": "^4.12.1",
     "husky": "^0.14.3",
-    "jsdom": "^11.6.2",
     "rollup": "^0.52.0",
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-plugin-uglify": "^3.0.0",

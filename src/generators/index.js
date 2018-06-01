@@ -6,7 +6,6 @@ import observe from "./observe";
 import queue from "./queue";
 import range from "./range";
 import valueAt from "./valueAt";
-import worker from "./worker";
 
 export default {
   disposable: disposable,
@@ -17,5 +16,4 @@ export default {
   queue: queue,
   range: range,
   valueAt: valueAt,
-  worker: worker
 };

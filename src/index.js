@@ -1,1 +1,4 @@
-export {default as Library} from "./library";
+import Promises from './promises';
+import Generators from './generators';
+
+export {Promises, Generators};
